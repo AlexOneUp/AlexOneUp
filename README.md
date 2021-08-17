@@ -1,12 +1,6 @@
 <h1 align="center">👋, I'm Alex</h1>
 <p align="left">🌱 Between classes and side projects, I’m always learning **MANY THINGS** and can't list them all. </p>
 
-
-<p align="left">🔭 I’m currently working on [Emergency Triage](https://github.com/AlexOneUp/EmergencyTriage)</p>
-<p align="left">🔭 also working on [Campgrounds](https://github.com/AlexOneUp/Campgrounds)</p>
-<p align="left"> Campgrounds is live here : https://mysterious-mountain-02142.herokuapp.com/</p>
-
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/alex-ruan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex-ruan" height="30" width="40" /></a>
