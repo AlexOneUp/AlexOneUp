@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 - 🔭 I’m currently working on [Emergency Triage](https://github.com/AlexOneUp/EmergencyTriage)
--
 - 🔭 also working on [Campgrounds](https://github.com/AlexOneUp/Campgrounds)
 - **Campgrounds is live here : https://mysterious-mountain-02142.herokuapp.com/**
 
