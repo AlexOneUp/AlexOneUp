@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-- 🔭 I’m currently working on [Emergency Triage](https://github.com/AlexOneUp/EmergencyTriage)
-- 🔭 also working on [Campgrounds](https://github.com/AlexOneUp/Campgrounds)
-- **Campgrounds is live here : https://mysterious-mountain-02142.herokuapp.com/**
+<p align="left">🔭 I’m currently working on [Emergency Triage](https://github.com/AlexOneUp/EmergencyTriage)</p>
+<p align="left">🔭 also working on [Campgrounds](https://github.com/AlexOneUp/Campgrounds)</p>
+<p align="left"> **Campgrounds is live here : https://mysterious-mountain-02142.herokuapp.com/**</p>
 
 - 🌱 I’m currently learning *MANY THINGS and can't list them all. *
 
