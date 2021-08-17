@@ -1,5 +1,4 @@
 <h1 align="center">👋, I'm Alex</h1>
-<p align="left">🌱 Between classes and side projects, I’m always learning **MANY THINGS** and can't list them all. </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
