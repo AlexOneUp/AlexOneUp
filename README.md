@@ -1,6 +1,6 @@
 <h1 align="center">👋, I'm Alex</h1>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me or take a look at my current studies here :</h3>
 <p align="center">
 <a href="https://linkedin.com/in/alex-ruan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex-ruan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/alexoneup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alexoneup" height="30" width="40" /></a>
