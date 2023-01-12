@@ -1,6 +1,11 @@
 <h1 align="center">Hello 👋, I'm Alex</h1>
 
 <h3 align="center">Check me out here:</h3>
+<figure>
+    <img src="/media/cc0-images/elephant-660-480.jpg"
+         alt="Elephant at sunset">
+    <figcaption>An elephant at sunset</figcaption>
+</figure>
 <div>
    <p align="center">
       <figure>
