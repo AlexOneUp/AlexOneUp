@@ -1,21 +1,17 @@
 <h1 align="center">Hello 👋, I'm Alex</h1>
 
 <h3 align="center">Check me out here:</h3>
-<figure>
-    <img src="/media/cc0-images/elephant-660-480.jpg"
-         alt="Elephant at sunset">
-    <figcaption>An elephant at sunset</figcaption>
-</figure>
+
 <div>
    <p align="center">
-      <figure>
-<!--          <a href="https://linkedin.com/in/alex-ruan" target="blank"> -->
+     
+         <a href="https://linkedin.com/in/alex-ruan" target="blank">
          
-<!--          <p align="center" stye="font-size:1px">LinkedIn</p> -->
+         <p align="center" stye="font-size:1px">LinkedIn</p>
          
          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex-ruan" height="50" width="50">
-<!--          </a> -->
-         <figcaption>LinkedIn</figcaption>
+         </a>
+
               
        </figure>
     
