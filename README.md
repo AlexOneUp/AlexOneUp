@@ -2,9 +2,15 @@
 
 <h3 align="center">Check me out here:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/alex-ruan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex-ruan" height="30" width="40" /></a>
-   <p>LinkedIn</p>
-<a href="https://www.leetcode.com/alexoneup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alexoneup" height="30" width="40" /></a>
+<div>
+   <a href="https://linkedin.com/in/alex-ruan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex-ruan" height="30" width="40" />
+      <p>LinkedIn</p>
+   </a>
+   
+   
+    <a href="https://www.leetcode.com/alexoneup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alexoneup" height="30" width="40" />
+    </a>
+   </div>
 </p>
 
 <h3 align="center">Here are some Languages and Tools I "Know":</h3>
