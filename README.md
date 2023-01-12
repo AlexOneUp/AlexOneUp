@@ -5,11 +5,8 @@
 <div>
    <p align="center">
      
-         <a href="https://linkedin.com/in/alex-ruan" target="blank">
-         
-         <p align="center" stye="font-size:1px">LinkedIn</p>
-         
-         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex-ruan" height="50" width="50"/>
+         <a href="https://linkedin.com/in/alex-ruan" target="blank">     
+            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex-ruan" height="50" width="50"/>
          </a>
     
 
