@@ -3,12 +3,13 @@
 <h3 align="center">Check me out here:</h3>
 <p align="center">
 <div>
-   <a href="https://linkedin.com/in/alex-ruan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex-ruan" height="30" width="40" />
+   <a href="https://linkedin.com/in/alex-ruan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex-ruan" height="50" width="50"<p>LinkedIn</p> />
       <p>LinkedIn</p>
    </a>
    
    
-    <a href="https://www.leetcode.com/alexoneup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alexoneup" height="30" width="40" />
+    <a href="https://www.leetcode.com/alexoneup" target="blank">
+       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alexoneup" height="50" width="50"/>
     </a>
    </div>
 </p>
