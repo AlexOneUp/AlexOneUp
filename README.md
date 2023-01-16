@@ -3,13 +3,13 @@
 
 
 <div align="left">
-   <h3 align="justify">Connect with me on <a href="https://linkedin.com/in/alex-ruan">LinkedIn</a> :</h3>
+   <h3 align="justify">Connect with me :</h3>
       <a href="https://linkedin.com/in/alex-ruan" target="blank">
-         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex-ruan" height="50" width="50"/>
+         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex-ruan" height="30" width="30"/>
         </a>
 
-   <h3 align="left">LeetCode progress <a href="https://www.leetcode.com/alexoneup">here</a> :</h3> 
-      <a href="https://www.leetcode.com/alexoneup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alexoneup" height="50" width="50" />
+   <h3 align="left">Some things I am working on :</h3> 
+      <a href="https://www.leetcode.com/alexoneup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alexoneup" height="30" width="30" />
       </a>
 </div>
 
